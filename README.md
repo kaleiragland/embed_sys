@@ -1,7 +1,7 @@
 # embedded-systems
 
-# Kalei Ragland 
+**Kalei Ragland**  
 Email: kar2247@columbia.edu
 
-# Gurleen Kalra
+**Gurleen Kalra**  
 Email: gkk2122@columbia.edu
